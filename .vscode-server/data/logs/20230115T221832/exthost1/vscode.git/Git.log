@@ -1,0 +1,25 @@
+2023-01-15 22:18:33.842 [info] Log level: Info
+2023-01-15 22:18:33.842 [info] Validating found git in: "git"
+2023-01-15 22:18:33.842 [info] Using git "2.34.1" from "git"
+2023-01-15 22:19:04.487 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-15 22:19:04.493 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-15 22:19:04.501 [info] Open repository: /home/robert
+2023-01-15 22:19:04.513 [info] > git config --get commit.template [1ms]
+2023-01-15 22:19:04.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/add-first refs/remotes/add-first [2ms]
+2023-01-15 22:19:04.543 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-15 22:19:04.698 [info] > git status -z -uall [163ms]
+2023-01-15 22:19:04.742 [info] > git config --get commit.template [3ms]
+2023-01-15 22:19:04.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/add-first refs/remotes/add-first [1ms]
+2023-01-15 22:19:04.751 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-15 22:19:04.754 [info] > git status -z -uall [8ms]
+2023-01-15 22:19:05.063 [info] > git check-ignore -v -z --stdin [4ms]
+2023-01-15 22:19:05.090 [info] > git show --textconv :practice [3ms]
+2023-01-15 22:19:05.091 [info] > git ls-files --stage -- /home/robert/practice [2ms]
+2023-01-15 22:19:05.839 [info] > git config --get commit.template [0ms]
+2023-01-15 22:19:05.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/add-first refs/remotes/add-first [0ms]
+2023-01-15 22:19:05.849 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-15 22:19:05.852 [info] > git status -z -uall [7ms]
+2023-01-15 22:19:10.870 [info] > git config --get commit.template [0ms]
+2023-01-15 22:19:10.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/add-first refs/remotes/add-first [1ms]
+2023-01-15 22:19:10.880 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-15 22:19:10.883 [info] > git status -z -uall [7ms]
