@@ -30,3 +30,18 @@
 2023-01-16 13:41:37.365 [info] [127.0.0.1][8732eb0e][ManagementConnection] The client has reconnected.
 2023-01-16 13:42:07.639 [info] [127.0.0.1][699399ce][ManagementConnection] The client has reconnected.
 2023-01-16 13:42:07.730 [info] [127.0.0.1][df24367d][ExtensionHostConnection] The client has reconnected.
+2023-01-16 13:57:30.762 [info] [127.0.0.1][699399ce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 13:57:30.800 [info] [127.0.0.1][df24367d][ExtensionHostConnection] <796> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 13:58:04.500 [info] [127.0.0.1][f7e8e0e3][ManagementConnection] New connection established.
+2023-01-16 13:58:04.799 [info] [127.0.0.1][7929c624][ExtensionHostConnection] New connection established.
+2023-01-16 13:58:04.802 [info] [127.0.0.1][7929c624][ExtensionHostConnection] <4427> Launched Extension Host Process.
+2023-01-16 13:58:13.496 [info] [127.0.0.1][f7e8e0e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 13:58:13.511 [info] [127.0.0.1][7929c624][ExtensionHostConnection] <4427> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 14:14:10.567 [info] [127.0.0.1][0a17ec42][ManagementConnection] New connection established.
+2023-01-16 14:14:10.844 [info] [127.0.0.1][c8549f15][ExtensionHostConnection] New connection established.
+2023-01-16 14:14:10.849 [info] [127.0.0.1][c8549f15][ExtensionHostConnection] <5981> Launched Extension Host Process.
+2023-01-16 14:14:24.362 [info] [127.0.0.1][0a17ec42][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 14:14:24.378 [info] [127.0.0.1][c8549f15][ExtensionHostConnection] <5981> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 14:14:25.487 [info] [127.0.0.1][662c6b9d][ManagementConnection] New connection established.
+2023-01-16 14:14:25.721 [info] [127.0.0.1][20e50a03][ExtensionHostConnection] New connection established.
+2023-01-16 14:14:25.724 [info] [127.0.0.1][20e50a03][ExtensionHostConnection] <6038> Launched Extension Host Process.
